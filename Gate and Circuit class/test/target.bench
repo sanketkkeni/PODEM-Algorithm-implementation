@@ -1,0 +1,6 @@
+input(a)
+input(b)
+output(e)
+c = or(a, b)
+d = not(b)
+e = and(c, c, d)

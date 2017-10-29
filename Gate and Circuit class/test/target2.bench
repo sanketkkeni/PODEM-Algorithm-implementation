@@ -1,0 +1,6 @@
+INPUT(A)
+INPUT(B)
+OUTPUT(c)
+e = XOR(A, B)
+f = NOT(B)
+c = XNOR(e,f)
